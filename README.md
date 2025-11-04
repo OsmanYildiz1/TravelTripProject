@@ -9,7 +9,7 @@ Bu proje, Mvc5 şablonu ve Code First yaklaşımı kullanılarak geliştirilmiş
 
 
 🔨 Kullanılan Teknolojiler  
-◾ MVC5 (.NET Framework):
+◾ MVC5 (.NET Framework):  
 ◾ HTML, CSS, Bootstrap, JS: Tasarım  
 ◾ Entity Framework: Veritabanı işlemleri  
 ◾ MSSQL: Veritabanı yönetimi.  
