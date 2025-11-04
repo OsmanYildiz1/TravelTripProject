@@ -1,9 +1,9 @@
 Tatil Seyahat Blog Projesi 
 Bu proje, Mvc5 şablonu ve Code First yaklaşımı kullanılarak geliştirilmiş Tatil Seyahat Blog sitesidir. 
 
-▪️ Kullanıcılar Admin tarafından yayınlanan blogları okuyabilir ve yorum yapabilir. En popüler blogları görüntüleyebilir. En beğenilen blogları görüntüleyebilir.
-▪️ Admin paneline erişmek için kullanıcı adı ve şifre ile giriş yapılmalıdır. Authentication ile yetkisiz giriş engellendi.
-▪️ Admin panelinde yorumları ve blogları yönetebilir. (CRUD işlemleri)
+▪️ Kullanıcılar Admin tarafından yayınlanan blogları okuyabilir ve yorum yapabilir. En popüler blogları görüntüleyebilir. En beğenilen blogları görüntüleyebilir.  
+▪️ Admin paneline erişmek için kullanıcı adı ve şifre ile giriş yapılmalıdır. Authentication ile yetkisiz giriş engellendi.  
+▪️ Admin panelinde yorumları ve blogları yönetebilir. (CRUD işlemleri)  
 
 
 
