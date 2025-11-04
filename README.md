@@ -16,6 +16,7 @@ Bu proje, Mvc5 şablonu ve Code First yaklaşımı kullanılarak geliştirilmiş
 ◾ GitHub: Proje versiyon kontrolü.  
 
 Projeden Görseller   
+# Site İçeriği   
 <img width="1755" height="666" alt="1" src="https://github.com/user-attachments/assets/990c87a5-03b3-4508-9d54-8e66cdbe7789" />  
 
 <img width="1453" height="882" alt="2" src="https://github.com/user-attachments/assets/a0056791-09ee-4a73-975b-2a04e533b178" />  
