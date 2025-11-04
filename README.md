@@ -28,7 +28,7 @@ Projeden Görseller
  <img width="912" height="833" alt="5" src="https://github.com/user-attachments/assets/b20aa318-baf2-482b-8728-616ebdd2728c" />  
 
 <img width="1860" height="719" alt="6" src="https://github.com/user-attachments/assets/b6c7df3f-e4db-4ef8-8a47-959fa0e93424" />  
-
+# Admin Paneli     
 <img width="1573" height="588" alt="7" src="https://github.com/user-attachments/assets/3f5b6b9e-5c1f-4c2e-aa8e-7316930277ea" />  
 
 <img width="951" height="731" alt="8" src="https://github.com/user-attachments/assets/8579a967-17ba-4c08-8353-48960cd34d95" />  
