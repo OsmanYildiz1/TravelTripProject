@@ -8,12 +8,24 @@ Bu proje, Mvc5 şablonu ve Code First yaklaşımı kullanılarak geliştirilmiş
 
 
 
-🔨 Kullanılan Teknolojiler  
-◾ MVC5 (.NET Framework)    
-◾ HTML, CSS, Bootstrap, JS: Tasarım  
-◾ Entity Framework: Veritabanı işlemleri  
-◾ MSSQL: Veritabanı yönetimi.  
+🔧 Kullanılan Teknolojiler ve Yapılar:  
+
+◾ ASP.NET MVC5  
+◾ Entity Framework (Code First)  
+◾ HTML, CSS, Bootstrap, JS  
+◾ SQL Server  
+◾ LINQ sorguları  
+◾ Authentication & Authorization (Giriş, kayıt, yönetici paneli)  
+◾ Partial View & Layout yapısı  
+◾ Admin Paneli üzerinden blog, yorum ve kullanıcı yönetimi  
 ◾ GitHub: Proje versiyon kontrolü.  
+
+
+
+🌐 Proje Özellikleri:  
+◾ Dinamik blog ve yorum sistemi  
+◾ Admin paneli üzerinden CRUD işlemleri  
+◾ Kullanıcı giriş/çıkış işlemleri  
 
 Projeden Görseller   
 # Site İçeriği   
